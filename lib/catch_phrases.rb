@@ -13,3 +13,7 @@ def link
   puts st
 end 
 
+def any_phrase(arg)
+  sta = arg
+  puts sta
+end
